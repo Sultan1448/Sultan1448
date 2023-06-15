@@ -13,5 +13,5 @@
 </div>
 
 <div id="header" align="left">
-<a img= "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" width="50"/></a>
+<a img src= "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" width="50"/></a>
 </div>
