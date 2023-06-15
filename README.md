@@ -7,7 +7,7 @@
 * 🔎 I'm looking for a job and a team of like-minded people
 * 💖 I love their parents
 
-**Connect with me**
+# Connect with me
 <div id="header" align="center">
 <a href = "https://t.me/Evil28Harris0"><img src= "https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="50"/></a>
 </div>
