@@ -12,7 +12,3 @@
 <a href = "https://t.me/Evil28Harris0"><img src= "https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="50"/></a>
 <a> <img src= "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" width="100"/></a>
 </div>
-
-<div id="header" align="left">
-<a> <img src= "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" width="100"/></a>
-</div>
