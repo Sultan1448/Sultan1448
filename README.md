@@ -7,6 +7,6 @@
 * 🔎 I'm looking for a job and a team of like-minded people
 * 💖 I love their parents
 
-<div align='center'>
-<img scr="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="200" href = >
+<div align="center">
+<img scr="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="200" href = "https://t.me/Evil28Harris0">
 </div>
