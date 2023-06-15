@@ -8,5 +8,5 @@
 * 💖 I love their parents
 
 <div id="header" align="center">
-<img scr= "https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="100" href = "https://t.me/Evil28Harris0"/>
+<img scr= "https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="100" />
 </div>
