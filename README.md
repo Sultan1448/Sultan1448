@@ -8,6 +8,6 @@
 * 💖 I love their parents
 
 <h3><b>Connect with me</b></h3>
-<div id="header" align="center">
+<div id="header" align="left">
 <a href = "https://t.me/Evil28Harris0"><img src= "https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="50"/></a>
 </div>
