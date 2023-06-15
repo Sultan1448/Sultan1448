@@ -11,4 +11,7 @@
 <div id="header" align="left">
 <a href = "https://t.me/Evil28Harris0"><img src= "https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="50"/></a>
 </div>
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+
+<div id="header" align="left">
+<a img= "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" width="50"/></a>
+</div>
