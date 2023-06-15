@@ -5,4 +5,4 @@
 * 🌱 I’m currently learning Python and ML.
 * 🎯 My principe: constantly develop, learn something new for yourself and fulfill your tasks and goals.
 * 🔎 I'm looking for a job and a team of like-minded people
-* 
+* ♥
