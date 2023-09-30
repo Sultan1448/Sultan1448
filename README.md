@@ -3,9 +3,8 @@
 <h2 align="left">I'm a Data scientist & Data Analytic, I'm from Russia. </h2>
 
 * 🌱 I’m currently learning Python and ML.
-* 🎯 My principe: constantly develop, learn something new for yourself and fulfill your tasks and goals.
 * 🔎 I'm looking for a job and a team of like-minded people
-* 💖 I love my parents
+* 💖 I love donuts
 
 <h3><b>Connect with me</b></h3>
 <div id="header" align="left">
