@@ -1,4 +1,4 @@
-<h3 align="left">Hi there, I'm Sultan - aka Sultan1448
+<h3 align="left">Hi there, I'm Sultan - aka Sultan77
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h3>
 <h2 align="left">I'm a Data scientist & Data Analytic, I'm from Russia. </h2>
 
