@@ -6,8 +6,12 @@
 * 🔎 I'm looking for a job and a team of like-minded people
 * 💖 I love donuts
 
+
+
+
 <div>
    <img src="D_rus.png" width="360" height="130"/>
+   <img src="D_ang.png" width="360" height="130"/>
 </div>
 
 <h3><b>Connect with me</b></h3>
