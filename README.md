@@ -11,6 +11,7 @@
 
 <div>
    <a href = "https://github.com/Sultan1655/My-Projects"> Мои проекты по Data Science </a>
+   
   <br> <img src="D_rus.png" width="360" height="130"/>
    <img src="D_ang.png" width="360" height="130"/>
 </div>
