@@ -7,7 +7,7 @@
 * 💖 I love donuts
 
 <div>
-   <img src="D_rus.png"/>
+   <img src="D_rus.png" width="180" height="130"/>
 </div>
 
 <h3><b>Connect with me</b></h3>
