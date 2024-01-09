@@ -7,7 +7,7 @@
 * 💖 I love donuts
 
 <div>
-   <img src="https://D_ang.png"/>
+   <img src="D_rus.png"/>
 </div>
 
 <h3><b>Connect with me</b></h3>
