@@ -7,7 +7,7 @@
 * 💖 I love donuts
 
 <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="40" height="40"/>
+   <img src="https://github.com/Sultan1655/My-Projects/blob/main/My%20Diplom.pdf" width="200" height="500"/>
 </div>
 
 <h3><b>Connect with me</b></h3>
