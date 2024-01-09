@@ -14,7 +14,7 @@
 </div>
 
 <div>
- <a href = "https://[github.com/Sultan1655/My-Projects](https://github.com/hackathone-prosept-team2/data-science)"> Хакатон hackathone-prosept-team2 </a>
+ <a href = "https://[github.com/Sultan1655/My-Projects](https://github.com/hackathone-prosept-team2/data-science)"> Хакатон Prosept-team2 </a>
    
   <br> <img src="Ru_Sert.png" width="180" height="130"/>
    <img src="Ang_Sert.png" width="180" height="130"/>
