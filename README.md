@@ -6,14 +6,18 @@
 * 🔎 I'm looking for a job and a team of like-minded people
 * 💖 I love donuts
 
-
-
-
 <div>
    <a href = "https://github.com/Sultan1655/My-Projects"> Мои проекты по Data Science </a>
    
   <br> <img src="D_rus.png" width="360" height="130"/>
    <img src="D_ang.png" width="360" height="130"/>
+</div>
+
+<div>
+ <a href = "https://[github.com/Sultan1655/My-Projects](https://github.com/hackathone-prosept-team2/data-science)"> Хакатон hackathone-prosept-team2 </a>
+   
+  <br> <img src="Ru_Sert.png" width="180" height="130"/>
+   <img src="Ang_Sert.png" width="180" height="130"/>
 </div>
 
 <h3><b>Connect with me</b></h3>
