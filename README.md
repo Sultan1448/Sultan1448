@@ -6,6 +6,10 @@
 * 🔎 I'm looking for a job and a team of like-minded people
 * 💖 I love donuts
 
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="40" height="40"/>
+</div>
+
 <h3><b>Connect with me</b></h3>
 <div id="header" align="left">
 <a href = "https://t.me/Evil28Harris0"><img src= "https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="50"/></a>
