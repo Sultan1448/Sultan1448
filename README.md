@@ -4,7 +4,7 @@
 
 * 🌱 I’m currently learning Python and ML.
 * 🔎 I'm looking for a job and a team of like-minded people
-* 💖 I love donuts
+* 💖 I love animals
 
 <div>
    <a href = "https://github.com/Sultan1655/My-Projects"> Мои проекты по Data Science </a>
